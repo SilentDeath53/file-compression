@@ -1,0 +1,2 @@
+[dependencies]
+flate2 = "1.0"
